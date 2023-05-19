@@ -1,4 +1,4 @@
-#### Sys1 WritesUp challenges
+### Sys1 WritesUp challenges
 
 > [link](https://www.root-me.org/)
 
