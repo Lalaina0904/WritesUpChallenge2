@@ -2,7 +2,7 @@
 
 > [link](https://www.root-me.org/)
 
-### FTP Authentification (5p points)
+### FTP Authentification (5 points)
 
 - analyze `Chap1.pcap` file
 - follow the FTP traffic on Wireshark
